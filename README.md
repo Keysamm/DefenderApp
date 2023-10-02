@@ -44,3 +44,8 @@ After Metro bundler started:
 - Displaying the starting positions of the players
 - Displaying the shortest path between the attacker and the goal
 - Displaying the point which the defender is trying to achieve
+
+#### This application ran with following setup:
+
+- node v18.17.0
+- ruby v3.0.0
